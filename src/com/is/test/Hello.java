@@ -5,5 +5,6 @@ public class Hello {
         //설정
         System.out.println("hello world java");
 
+        //깃과 연동 성공했음.
     }
 }
